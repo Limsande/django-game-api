@@ -17,6 +17,10 @@ $> python manage.py migrate
 $> python manage.py runserver
 ```
 
+## Interact with the API
+
+See `usage_example.py`.
+
 ## Learning resources
 
 - Caleb Curry's great tutorial: https://youtu.be/i5JykvxUk_A
